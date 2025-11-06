@@ -8,4 +8,4 @@
 
 
 - Version [enca-arc v1.0.0](https://github.com/mmz-001/enca-arc/releases/tag/v1.0.0)
-- Trained on Google Cloud `c4a-highcpu-72` spot instance costing $0.74/hr.
+- Trained on a Google Cloud `c4a-highcpu-72` spot instance costing $0.74/hr.
